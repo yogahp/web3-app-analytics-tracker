@@ -77,3 +77,8 @@ Anton Movshin
 Maksim Gubyshev
 Vladimir Vlasiuk
 Nazhmudin Baymurzaev
+
+## Update
+### How to Setup
+#### Install PNPM
+https://pnpm.io/installation
